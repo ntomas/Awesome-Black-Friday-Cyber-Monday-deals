@@ -68,7 +68,7 @@ Add it to your website, README, or launch post:
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (4) - Image editing & compression, AI images, screenshots, color tools
 * 📝 [AI Assistants & Writing](#-ai-assistants--writing) (3) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (2) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
-* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (3) - Social media, lead finding & outreach, email marketing, launch directories
+* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (4) - Social media, lead finding & outreach, email marketing, launch directories
 * 💼 [Business, Finance & Operations](#-business-finance--operations) (3) - Invoicing, expenses, customer feedback & support, e-signature, team admin
 * 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (10) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (2) - Code templates & components to ship a SaaS or app faster
@@ -162,6 +162,7 @@ Add it to your website, README, or launch post:
 | [SwiftERM](https://swifterm.com/black-friday/) | Autonomous individualisation for ecommerce email marketing · picks what each customer is most likely to buy next and sends it without campaigns | **40% OFF** first 12 paid monthly subscriptions after the free 30-day trial · new customers only · code `BLACKFRIDAY26` | Nov 20, 2026 - Dec 3, 2026 |
 | [LandinTools](https://tools.landin.page/advertise?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | 💸 **50% OFF** Featured listing for a full year · code `BF2026` ($49 → $24.50) | Oct 28, 2026 - Dec 31, 2026 |
 | [Updately](https://updately.ai) | AI that finds high-intent leads on LinkedIn and messages them the way you would | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
+| [Outmano](https://outmano.com/?utm_source=twf-bf26) | AI competitive intelligence for SaaS teams · tracks competitors' pricing, website, SEO and news, alerts you on changes, works with your AI agent via MCP | **30% OFF** first 12 months on any monthly plan · new customers only · code `BF2026` | Nov 3, 2026 - Dec 2, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
